@@ -1,0 +1,2 @@
+gps.c:12:5:getMessageType	16	static
+gps.c:30:7:getLatitude	16	static
